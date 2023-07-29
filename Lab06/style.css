@@ -1,0 +1,114 @@
+@charset "utf-8";
+.container-fluid .container {
+    background-image: url(images/2454617.jpg);
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    background-position: 100% 100%;
+    background-size: cover;
+    background-color: #070707;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item.dropdown {
+    color: #070707;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-link {
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-link {
+}
+
+
+
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item.dropdown {
+    background-color: #070707;
+    color: #F8F5F5;
+    -webkit-box-shadow: 0px 0px #070707;
+    box-shadow: 0px 0px #070707;
+    border-top: thin solid #070707;
+}
+
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item.dropdown {
+    color: #070707;
+}
+
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item.dropdown {
+    color: #070707;
+}
+
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #070707;
+}
+body div {
+    color: #F3F3F3;
+    background-repeat: no-repeat;
+    -webkit-box-shadow: 0px 0px #000000;
+    box-shadow: 0px 0px #000000;
+
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #070707;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    -webkit-box-shadow: 0px 0px #FFFFFF;
+    box-shadow: 0px 0px #FFFFFF;
+    color: #FFFFFF;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-link {
+}
+div div h4 {
+}
+.carousel-item.active .carousel-caption p {
+    color: #FFFFFF;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-link {
+    color: #FFFFFF;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-style: italic;
+}
+.container-fluid {
+    background-image: url(images/2454617.jpg);
+}
+#headingOne1 .mb-0 a {
+    text-shadow: 5px 0px 1px #070707;
+}
+#headingTwo1 .mb-0 .collapsed {
+    text-shadow: 5px 0px 1px #070707;
+}
+#headingThree1 .mb-0 .collapsed {
+    text-shadow: 5px 0px 1px #070707;
+}
+
+
+
+#headingOne1 .mb-0 a {
+    color: #FFFFFF;
+    font-size: large;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #FFFFFF;
+    font-size: large;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #FFFFFF;
+    font-weight: normal;
+    font-size: large;
+}
+.container-fluid .container img {
+    color: #FFFFFF;
+    background-color: #FFFFFF;
+}
+.container center h1 {
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: normal;
+    font-weight: 900;
+    font-size: xx-large;
+    font-variant: normal;
+    text-decoration: none;
+    text-align: center;
+    text-shadow: 5px 0px 1px #0D0D0D;
+    background-color: #B91C1F;
+    border-left: thick solid #FFFFFF;
+}
